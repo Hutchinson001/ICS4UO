@@ -1,2 +1,2 @@
 # ICS4UO
-Final culminating project for Grade 12 Computer Science
+Final culminating project for Grade 12 Computer Science.
